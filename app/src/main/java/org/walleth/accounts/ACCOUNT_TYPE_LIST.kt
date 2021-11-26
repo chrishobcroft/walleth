@@ -30,7 +30,7 @@ val ACCOUNT_TYPE_LIST = listOf(
                 ACCOUNT_TYPE_TREZOR,
                 "TREZOR wallet",
                 "Connect TREZOR",
-                "Very reasonable security but you need to have a device that costs more than 50DAI and plug it in the phone",
+                "Very reasonable security but you need to have a device that costs more than 50DAI and plug it into the phone",
                 R.drawable.trezor_icon_black,
                 R.drawable.trezor_icon_black
         ) { activity, _ ->
